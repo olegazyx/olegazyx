@@ -1,6 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 I'm Sowtawre Engineer.
-📫 Telegram: https://t.me/olegazyx
+
+📫 Telegram: [@olegazyx](https://t.me/olegazyx]markdown)
 
 <!--
 **OLEG4120/OLEG4120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
