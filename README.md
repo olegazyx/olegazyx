@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sowtawre Engineer.
+I'm Software Engineer.
 
 📫 Telegram: [@olegazyx](https://t.me/olegazyx]markdown)
 
